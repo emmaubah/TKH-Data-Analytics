@@ -20,7 +20,7 @@
         "ms-toolsai.vscode-jupyter-slideshow"
       ],
       "settings": {
-        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python.defaultInterpreterPath": "/usr/local/python/current/bin/python",
         "jupyter.notebookFileRoot": "${workspaceFolder}",
         "editor.formatOnSave": true,
         "files.autoSave": "afterDelay",
